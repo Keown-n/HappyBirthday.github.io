@@ -41,6 +41,7 @@ body {
 .container{
     position: absolute;
   top: 20px;
+  padding:10px;
     height: fit-content;
     width: inherit;
     display: flex;
